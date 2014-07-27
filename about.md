@@ -1,33 +1,33 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tags: [Jekyll, theme, modern, minimal, responsive]
+title: About 
+tags: [about]
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: cover2.jpg
+  credit: Aoife Martin
+  creditlink: https://lh6.googleusercontent.com/-MVW6c9j6bb8/UX_eynSgtDI/AAAAAAAAh9k/WhXaG6Vyj_4/w887-h499-no/cover2.png
 share: true
 ---
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
+## Rob Martin
 
-## What HPSTR brings to the table:
+![My Handsome visage](/images/rob_martin.jpg)
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](http://disqus.com) if you choose to enable.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy
-* [Grunt](http://gruntjs.com) build script for easy theme development
+So that I don't repeat the details of my [Linkedin Profile](http://uk.linkedin.com/pub/rob-martin/28/721/591), the basics are as follows.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
+* I'm a father of two wonderful kids, pictures of whom I endlessly <del>spam</del> share with friends and family on Google+.
+* I married to a very intelligent and sympathetic woman, who will be canonised, eventually.
+* I studied Art History long enough to relise that I'd never make a <em>good</em> academic Art Historian.
+* I spend <em>way too much</em> money on gadgets, a situation worsened by my recent discovery of [ibuygou.com](http://www.ibuygou.com/) <em>et al</em> the fact that I can name this as commodity fetishism merely compounds things.
+* I'm interested in the intersection of technology and culture and on particularly optimistic days get quite giddy with excitment exploring the possible uses of technology to enhance learning & teaching, on other days <strong>grumpy</strong> would be more accurate description.
+* I trained as a teacher, taught History, became an ICT Consultant for the local authority, managed a [City Learning Centre](http://www.leeds-clcs.org) and am now an independent educational consultant which is a very long way of saying <em>freelance</em>. 
+* I'm a partner in [Beta Filmworks](http://www.betafilmworks.org) which delivers one of the [BFI Film Academies](http://www.bfi.org.uk/education-research/5-19-film-education-scheme-2013-2017/bfi-film-academy-scheme-2013-4)
+* I'm rather fond of [Google Apps for Education](http://www.google.com/enterprise/apps/education/) and am a Google Education Trainer.
 
-[^1]: Example: *domain.com/category-name/post-title*
+
+{% include google_apps.html %}
+{: .pull-right}
+
+
+
