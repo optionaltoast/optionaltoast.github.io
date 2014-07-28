@@ -5,9 +5,8 @@ description: "First impressions on setting up Google Glass."
 modified: 2014-07-27
 tags: [wearable-tech]
 image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: google_glass_aoife.jpg
+  credit: Aoife Martin
 comments: true
 share: true
 ---
