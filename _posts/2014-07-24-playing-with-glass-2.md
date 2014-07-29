@@ -40,7 +40,7 @@ I had some fun sending messages to my wife **"ok glass. Send a message to"** the
 
 <figure>
 	<a href="/images/glass_message_to.jpg"><img src="/images/glass_message_to_2.jpg" alt="Send a message to, Google Glass command"></a>
-	<figcaption><a href="/images/glass_message_to.jpg" title="Voice recognition in action">Voice recognition in action</a>.</figcaption>
+	<figcaption>>Voice recognition in action.</figcaption>
 </figure>
 
 ## Action Sequence
