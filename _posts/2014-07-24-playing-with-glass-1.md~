@@ -3,7 +3,7 @@ layout: post
 title: "Playing with Google Glass : part 1"
 description: "First impressions on setting up Google Glass."
 modified: 2014-07-27
-tags: [wearable-tech]
+tags: [wearable-tech, google glass]
 image:
   feature: google_glass_aoife.jpg
   credit: Aoife Martin
