@@ -11,7 +11,7 @@ comments: true
 share: true
 ---
 
-So as part of an upcoming project <a href="http://www.rm.com/home">RM Education</a> have loaned me a Google Glass to play with.
+So as part of an upcoming project <a href="http://www.ten-online.org/">The Ten Centre, Salford</a> have loaned me a Google Glass to play with.
 
 
 ![Google Glass from German wikipedia]({{ site.url }}/images/Google_Glass_Front.resized.jpg)
