@@ -2,7 +2,7 @@
 layout: post
 title: "Strictly more Pi : part 1, redux"
 description: "The backgound or how I finally accepted my inner mad professor"
-tags: [raspberry pi, images, google glass, wearable-tech]
+tags: [raspberry pi, images, google glass, wearable-tech, dance, code]
 share: true
 ---
 
