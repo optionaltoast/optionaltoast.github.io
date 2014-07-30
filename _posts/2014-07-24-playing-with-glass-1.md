@@ -24,7 +24,7 @@ It comes with some rather fetching <em>shades</em> which is useful given the per
 
 I'll be posting some additional thoughts on Glass over the weekend, and am acutely aware of the irony in attempting to decribe a personal wearable with a <abbr title="Heads Up Display">HUD<abbr> but I'll give it a go anyway.
 
-Also rather than repeat what's already out there The Verge has a really good overview on Glass and it's <abbr title="User Interface">UI</abbr>/<abbr title="User Experience">UX</abbr><a href="http://www.theverge.com/2013/5/20/4339446/google-glass-apps-everything-you-can-do-right-now">here</a>
+Also rather than repeat what's already out there The Verge has a really good overview on Glass and it's <abbr title="User Interface">UI</abbr>/<abbr title="User Experience">UX</abbr> <a href="http://www.theverge.com/2013/5/20/4339446/google-glass-apps-everything-you-can-do-right-now">here</a>
 
 
 
