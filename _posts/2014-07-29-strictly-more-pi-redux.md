@@ -162,3 +162,10 @@ X, Y, Z, mX, mY, Mz, T in the python snippet above, so for the moment I'm happy 
 
 tbc.
 
+
+## This year's fashion must haves
+
+<figure>
+	<a href="/images/Strictly-More-Pi-2.jpg"><img src="/images/Strictly-More-Pi-2-small.jpg" alt="Mark and Ashleigh"></a>
+	<figcaption>Ashleigh and Mark make it look so effortless, I still think the headband looks better on me &#128527;</figcaption>
+</figure>
