@@ -1,9 +1,0 @@
----
-layout: post
-title: Hello World
----
-
-I've found an interesting theme for my [Jeykll](http://jekyllrb.com/) website and I'm shamelessly messing around with it.
-
-
-
