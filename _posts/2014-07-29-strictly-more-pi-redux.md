@@ -19,7 +19,7 @@ share: true
 
 While you ponder the magnificance of the image above, let me explain how it was that I came to be sitting in my office wearing a Raspberry Pi camera sewn onto one of Claire's Accessories finest headbands.  That I'm posting it at all should answer the question that first popped into your head *"Has he no shame?"* to which the answer is a resounding **no**
 
-It all started in Starbucks on Street Lane, as all things <a href="https://twitter.com/cgarside">Clare Garside</a> are wont to do. I can't remember exactly how the conversation went, probably as I was still hyperventilating having, to paraphrase Witnall, "gone cycling by mistake".  Anyway by the end of it I'd left with one of these
+It all started in Starbucks on Street Lane, as all things <a href="https://twitter.com/cgarside">Clare Garside</a> are wont to do. I can't remember exactly how the conversation went, probably as I was still hyperventilating having, to paraphrase Withnall, "gone cycling by mistake".  Anyway by the end of it I'd left with one of these
 
 ## XLoBorg
 
