@@ -20,7 +20,7 @@ The Pi **“Dance, sensor, camera thingymebob Pi™“** was a one shot deal, th
 <iframe width="560" height="315" src="//www.youtube.com/embed/RhPLQcg4-ro" frameborder="0" allowfullscreen></iframe>
 As seen from Claire's iPad
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/g8en82i9y2o" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/g8en82i9y2o?start=20&end=78" frameborder="0" allowfullscreen></iframe>
 As seen from Mark's Google Glass
 
 ## The Tango 
