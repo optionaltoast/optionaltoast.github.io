@@ -37,7 +37,7 @@ As seen from Ashleigh's **“Dance, sensor, camera thingymebob Pi™“**
 <iframe width="560" height="315" src="//www.youtube.com/embed/Adf8hiVkpLk" frameborder="0" allowfullscreen></iframe>
 The Final Dance as from with Claire's iPad
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/cgfP9Vx8tmY?start=21" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/cgfP9Vx8tmY?start=21&end=170" frameborder="0" allowfullscreen></iframe>
 The Final Dance as from with Mark's Google Glass
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/XbNy87KABt8" frameborder="0" allowfullscreen></iframe>
