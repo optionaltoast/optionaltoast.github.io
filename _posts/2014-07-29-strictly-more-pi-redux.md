@@ -122,8 +122,6 @@ raspivid -rot 90 -w 640 -h 480 -fps 90 -t 900000 -o /home/pi/dance_pics/ninetyfp
 As the blog explains the 90fps mode is limited to 640x480 which is more than enough for our lttle experiment.
 
 
-### The resulting 1.2gb file is still being editied but it'll go here soon.
-
 ## XLoBorg
 
 **hack** is the only word I can use to describe what I did to `xloborg.py` which came from the <a href="https://www.piborg.org/xloborg/examples">PiBorg examples</a> this snippet is my only alteration, and proper programmers will be able to spot why it took me an age to find `xloborg_results` 
