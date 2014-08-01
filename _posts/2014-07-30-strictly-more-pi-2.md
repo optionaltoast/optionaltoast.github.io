@@ -35,13 +35,13 @@ As seen from Ashleigh's **“Dance, sensor, camera thingymebob Pi™“**
 ## The Final Dance 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/Adf8hiVkpLk" frameborder="0" allowfullscreen></iframe>
-The Final Dance as from with Claire's iPad
+The Final Dance as seen from with Claire's iPad
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/cgfP9Vx8tmY?start=21&end=170" frameborder="0" allowfullscreen></iframe>
 The Final Dance as from with Mark's Google Glass
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/XbNy87KABt8" frameborder="0" allowfullscreen></iframe>
-The Final Dance as from with Ashleigh's **“Dance, sensor, camera thingymebob Pi™“**
+The Final Dance as seen from with Ashleigh's **“Dance, sensor, camera thingymebob Pi™“**
 
 The thing to remember is that Ashleigh's headcam was recording at 90fps and even then it stuggled to capture the speed of her motion as they performed. In the next post (i.e. when I work out how to do it) I'll post the data captured from the XLoBorg and complete the triptych.
 
