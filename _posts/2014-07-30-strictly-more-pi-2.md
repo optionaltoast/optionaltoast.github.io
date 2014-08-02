@@ -10,6 +10,11 @@ image:
 share: true
 ---
 
+figure>
+	<a href="/images/IMG_20140728_144613-PANO.jpg"><img src="/images/IMG_20140728_144613-PANO-resized.jpg" alt="Google + Pano of Mark and Ashleigh performing"></a>
+	<figcaption>A Google+ Pano of Mark &amp; Ashleigh's performance.</figcaption>
+</figure>
+
 Mark and Ashleigh danced 3 times for us; a Viennese Waltz, a Tango and something Richard Claydermanesque. I only know the first from the movies, the second from The Gotan Projects’ *“La Revancha Del Tango”* while the third seems inexplicably and inescapably linked to the 80's melodrama "The Thorn Birds" staring with Richard Chamberlain, go figure, and here you thought I was going all "high brow."
 
 
