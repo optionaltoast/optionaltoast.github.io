@@ -3,6 +3,7 @@ layout: post
 title: "Strictly more Pi : part 2"
 description: "The completed videos"
 tags: [raspberry pi, images, google glass, wearable-tech, dance, code]
+modified: 2014-08-02
 image:
   feature: aoife_dance_banner.jpg
   credit: Aoife Martin
@@ -57,6 +58,7 @@ My kit bag would have included the following:
 1. a pen
 2. a notepad
 3. a stopwatch
+4. a clapperboard
 
 It turned out to be rather more time consuming than I thought finding the start and end points of each performance in the 1.2GB 90fps file, and a basic note of start/stop times would have made the last few days a lot easier. 
 
