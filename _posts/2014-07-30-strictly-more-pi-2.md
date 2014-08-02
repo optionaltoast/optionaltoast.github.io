@@ -10,7 +10,7 @@ image:
 share: true
 ---
 
-figure>
+<figure>
 	<a href="/images/IMG_20140728_144613-PANO.jpg"><img src="/images/IMG_20140728_144613-PANO-resized.jpg" alt="Google + Pano of Mark and Ashleigh performing"></a>
 	<figcaption>A Google+ Pano of Mark &amp; Ashleigh's performance.</figcaption>
 </figure>
