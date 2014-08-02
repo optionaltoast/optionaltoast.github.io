@@ -8,7 +8,7 @@ share: true
 ---
 
 <figure class="half">
-	<a href="/images/powerup3.png"><img src="/images/powerup3-small.png" alt="Tweet confirming Kickstater backing"></a>
+	<a href="/images/powerup3.jpg"><img src="/images/powerup3-small.jpg" alt="Tweet confirming Kickstater backing"></a>
 	<a href="/images/powerup3_box.jpg"><img src="/images/powerup3_box-small.jpg" alt=""></a>
 	<figcaption>As close as you're going to get to an *unboxing* here</figcaption>
 </figure>
