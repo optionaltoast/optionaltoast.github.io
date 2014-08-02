@@ -71,7 +71,7 @@ The Google Glass would give us one <abbr title="Point of View">POV<abbr>, a Rasp
 
 ### Pi Camera
 
-As I'd done some <a href="https://innovationinhull.wordpress.com/2014/07/17/the-pi-night/">timelapse work</a> with the Pi Camera before the initial plan was to capture a series of pictures from the camera on the headband and make a timelapse video out of resulting stills.  So testing was required, hence the image at the start of this post.  Testing pointed out the first real problem with the endeavour, the shutter speed was too slow and the images where blurry, oh and they were 90&ordm; off.  
+As I'd done some <a href="https://innovationinhull.wordpress.com/2014/07/17/the-pi-night/">time-lapse work</a> with the Pi Camera before the initial plan was to capture a series of pictures from the camera on the headband and make a time-lapse video out of resulting stills.  So testing was required, hence the image at the start of this post.  Testing pointed out the first real problem with the endeavour, the shutter speed was too slow and the images where blurry, oh and they were 90&ordm; off.  
 
 So first solution involved changing the mode of the camera to **sports** which would force a faster shutter speed and adding **rot 90** to rotate the resulting image.
 
