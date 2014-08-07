@@ -26,4 +26,4 @@ So that I don't repeat the details of my [Linkedin Profile](http://uk.linkedin.c
 * I'm rather fond of [Google Apps for Education](http://www.google.com/enterprise/apps/education/) and am a Google Education Trainer.
 
 [![Find a Trainer](/images/GoogleEducationTrainer_badge_RGB-small.jpg)](http://www.google.com/enterprise/apps/education/resources/find-a-trainer.html)
-{: .pull-right}
+
