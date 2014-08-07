@@ -27,7 +27,5 @@ So that I don't repeat the details of my [Linkedin Profile](http://uk.linkedin.c
 
 
 {% include google_apps.html %}
-{: .pull-right}
-
-
+{: .pull-left}
 
