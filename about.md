@@ -25,7 +25,5 @@ So that I don't repeat the details of my [Linkedin Profile](http://uk.linkedin.c
 * I'm a partner in [Beta Filmworks](http://www.betafilmworks.org) which delivers one of the [BFI Film Academies](http://www.bfi.org.uk/education-research/5-19-film-education-scheme-2013-2017/bfi-film-academy-scheme-2013-4)
 * I'm rather fond of [Google Apps for Education](http://www.google.com/enterprise/apps/education/) and am a Google Education Trainer.
 
-
-{% include google_apps.html %}
 [![Find a Trainer](/images/GoogleEducationTrainer_badge_RGB-small.jpg)](http://www.google.com/enterprise/apps/education/resources/find-a-trainer.html)
 {: .pull-right}
