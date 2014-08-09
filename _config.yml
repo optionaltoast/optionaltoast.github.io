@@ -22,7 +22,9 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   https://plus.google.com/u/0/+RobMartin
+
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:    +RobMartin
 
 # Background image to be tiled on all pages
 background: 
@@ -46,8 +48,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
-pygments:    true
-#highlighter: pygments
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks

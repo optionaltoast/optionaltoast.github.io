@@ -60,7 +60,8 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:    +yourid
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -280,7 +281,7 @@ Having a problem getting something to work or want to know why I setup something
 
 ## License
 
-This theme is free and open source software, distributed under the [GNU General Public License]({{ site.url }}/LICENSE) version 2 or later. So feel free to to modify this theme to suit your needs.
+This theme is free and open source software, distributed under the [MIT License]({{ site.url }}/LICENSE) version 2 or later. So feel free to to modify this theme to suit your needs.
 
 ---
 
