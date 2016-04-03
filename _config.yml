@@ -3,14 +3,15 @@ description:      a blog wherein I break things, repeatedly..
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
-#Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://optionaltoast.com
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:		http://optionaltoast.com
 
 # Owner/author information
 owner:
   name:           Rob Martin
   avatar:         avatar.jpg
-  bio:            "Personal blog about teaching & learning, gadgets, the new computing curriculum."
+  bio:            "Personal blog about learning & teaching, educational technology, gadgets, the new computing curriculum."
   email:          #robin.b.martin@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        optional_toast
@@ -21,8 +22,6 @@ owner:
   instagram:      
   flickr:         
   tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +RobMartin
 
@@ -35,21 +34,18 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: agere learning
-    url: http://agere.co.uk
-    external: true
-  - title: Beta Filmworks
-    url: http://www.betafilmworks.org
-    external: true
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
@@ -62,7 +58,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderay: false
 
   coderay:
     coderay_line_numbers: nil
@@ -70,6 +66,16 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
+
+# Octopress
+# Default extensions
+post_ext: md
+page_ext: md
+# Found in _templates/
+post_layout: post
+page_layout: page
+# Format titles with titlecase?
+titlecase: true
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
